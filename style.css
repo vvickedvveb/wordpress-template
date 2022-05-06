@@ -1,0 +1,72 @@
+/*
+Theme Name: Car Dealer Theme
+Text Domain: Car Dealer Website
+Version: 1.0
+Description: A WordPress theme for car dealers
+Tags: car, cars, dealership, car-dealership, jquery, bootstrap5, showcase
+Author: Vick Ahuja
+Author: URI: https://www.vickrumahuja.com
+*/
+
+.fine-print {
+    font-size: smaller;
+    font-style: italic;
+}
+
+img.logo {
+    width: 60px;
+    height: 60px;
+}
+
+.spin {
+    animation-name: spin;
+    animation-duration: 10000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+
+.h1-fade-in {
+    animation-duration: 10s;
+    animation-fill-mode: both;
+}
+
+@keyframes fadeIn {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+ }
+
+ .fadeIn {
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+ }
+
+
+.nav {
+    margin-top: 18px;
+}
+
+ul li.nav-item a {
+    text-decoration: none;
+}
+
+li#menu-item-17 a, li#menu-item-159 a {
+    margin: 0 100px 0 0;
+}
+
+
+ul.contact-info {
+    list-style-type: none;
+}
+
+ul.contact-info li {
+    margin-bottom: 10px;
+}
