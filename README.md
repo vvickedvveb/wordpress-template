@@ -32,6 +32,10 @@ li#menu-item-17 a, li#menu-item-159 a {
 - Click arrow of nav item and add "nav-item" to `CSS Classes`
 - Check `Desktop Primary Left Sidebar`
 - Click `Save Menu` bottom
+
+# Simple Contact Form Plugin
+If you would like a simple form plugin you may check one here...
+https://gist.github.com/vvickedvveb/f9a7715c9ada8d358538d1e7a478ffc8
 # Credits
 Images are for demonstration purposes only and are copyright their respectful owners. No infridgement intended.
 ## Image Gallery
