@@ -1,7 +1,6 @@
 This is just a simple stripped down WordPress template. You may use as you wish. I decided to base on a car website, on a 1963 Volkswagen Beetle (I don't know why). Uses Bootstrap 5, and some jQuery for a car price calculator.
 
 # Install
----
 If you rename the folder for this template then also make sure you change name in `style.css`
 ```css
 /*
@@ -10,6 +9,9 @@ Theme Name: Car Dealer Theme
 */
 ```
 - Folder name: `car_dealer_template`
+- Drop folder in `wp-content` --> `themes`
+- "Activate" in `Appearance` --> `Themes`
+
 ## Clone
 ## Download
 
@@ -23,7 +25,6 @@ li#menu-item-17 a, li#menu-item-159 a {
 ```
 - Change `menu-item-17` &amp; `menu-item-159` to yours
 
-
 ## Menu
 - `Appearance` --> `Menus`
 - `Screen Options`
@@ -32,7 +33,6 @@ li#menu-item-17 a, li#menu-item-159 a {
 - Check `Desktop Primary Left Sidebar`
 - Click `Save Menu` bottom
 # Credits
----
 Images are for demonstration purposes only and are copyright their respectful owners. No infridgement intended.
 ## Image Gallery
 - https://www.cssscript.com/photo-grid-gallery
